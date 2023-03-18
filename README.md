@@ -26,6 +26,8 @@ We have four data file for this activity to proceed, they are
 3. Test Sentence Dataset
 4. Test Label Dataset
 
+Developed by [@rajagopal-dandamudi]
+
 Sentence file contains all interations between patients and doctor and Label file contains all enitiy tags for particular words arranged as per sentence. We need to do few preprocessing while accessing dataset we will explore that in further steps
 
 #### Library Explanation
