@@ -36,3 +36,5 @@ Sentence file contains all interations between patients and doctor and Label fil
 3. SpaCy - NLP, POS tag check
 4. Warnings - To avoid warning messages
 5. Sklearn_CRFsuite - Model building and Evaluation
+
+Created by [@rajagopal-dandamudi]
